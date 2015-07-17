@@ -38,4 +38,14 @@ Combat advantage does *not* grant a +2 bonus to attacks, though. Mostly it's use
 
 ## Skill Charges
 
+You still have **At-Will** abilities, which you can use as many times as you like. However, you'll no longer have encounter and daily powers. Instead, each non-At-Will ability will have a *charge number* on it.
+
+At the beginning of the day, put a number of charge tokens on each ability card corresponding to its charge number. Each time that you use one of those abilities, remove a charge token. Once the charge tokens are gone, you can't use the ability any more that day.
+
+Some abilities may give you the choice of using additional charge tokens to enhance their effect somehow. You have to choose to spend the tokens before you roll.
+
+Some abilities may allow you to restore charge tokens to other characters or yourself. The granted tokens can be placed on any ability with a charge number. You *may* add additional tokens above the charge number. They'll persist until you use them, or the next extended rest, whichever comes first.
+
+After a combat encounter, you'll naturally regain five charge tokens in the same manner. After an extended rest, all abilities reset to the number of charge tokens equal to their charge number.
+
 [:point_left: Music](./music.md) | [README :point_up:](./README.md)
