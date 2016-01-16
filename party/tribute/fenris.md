@@ -1,9 +1,8 @@
 # [name]
 
-**Player:** @fenris
-
-**Race:**
-**Instrument:**
-**Combat Role:**
+ * **Player:** @fenris
+ * **Race:**
+ * **Instrument:**
+ * **Combat Role:**
 
 ## Backstory

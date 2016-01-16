@@ -1,11 +1,9 @@
 # Ohno Itshimagain
 
-**Player:** @fenris
-
-**Race:** Half-giant
-**Instrument:** Bass (Bass guitar is a greataxe)
-**Combat Role:** Damage + Defense
-
+ * **Player:** @fenris
+ * **Race:** Half-giant
+ * **Instrument:** Bass (Bass guitar is a greataxe)
+ * **Combat Role:** Damage + Defense
  * Abilities that sacrifice control and/or risk friendly fire.
 
 ## Backstory

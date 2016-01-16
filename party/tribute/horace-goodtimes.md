@@ -1,17 +1,14 @@
 # Father Horace Goodtimes
 
-**Player:** @wrbritt
-
-**Race:** High Elf (Like, REALLY High)
-**Instrument:** Church Organ
-**Combat Role:** Buffs / Healing
-
+ * **Player:** @wrbritt
+ * **Race:** High Elf (Like, REALLY High)
+ * **Instrument:** Church Organ
+ * **Combat Role:** Buffs / Healing
  * Healing spells have consequences, like requiring a sacrifice
 
 ## Backstory
 
  * addicted to "Cocanna Root"
-
  * I'm old enough to have been a fan of the original Blood Down the Gullet, although I probably wasn't as chummy with them as I claim...
  * I've done a lot of drugs over the last XX years between then and now.
  * I took care of all these orphans because I felt bad about all their parents being slaughtered by the Band.
