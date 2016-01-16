@@ -2,6 +2,8 @@
 
 **Player:** @atiaxi
 
-* *Race*
-* Damage / Psychic stuff
-* Vocals
+**Race:**
+**Instrument:** Vocals
+**Combat Role:** Damage / Psychic Control
+
+## Backstory
