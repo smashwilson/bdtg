@@ -30,7 +30,7 @@
 
 **Anything For The Kids** Charges: 3, Melee, Minor. Take 1d6 damage to heal the target 1d10 HP.
 
-**"Holy" Shield** Charges: 2, Melee, Standard. Add +2 to all of the target's defenses.
+**"Holy" Shield** Charges: 2, Melee, Standard. Add +2 to all of the target's defenses until the end of the target's next turn.
 
 **This Will Help, But...** Charges: 1, Melee, Standard. Heal the target 3d10 HP. For the rest of the encounter, the target incurs a -2 penalty on all to-hit rolls.
 
