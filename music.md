@@ -1,6 +1,6 @@
 # Music
 
-A *concert* is an event consisting of a series of songs, in which the band attempts to accrue points that represent their growing fame and renown, while not killing *too* many of the audience lest they anger the hosting town, village, or nation-state.
+A *concert* is an event consisting of a series of songs, in which the band attempts to accrue points that effect their growing [Fame](fame.md), while not killing *too* many of the audience lest they anger the hosting town, village, or nation-state.
 
 Concerts proceed with a sequence of turns that players take, going around the table in a simple loop. The band can choose whomever they wish to take the first turn.
 
