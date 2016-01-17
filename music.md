@@ -40,6 +40,10 @@ Finishing a song in a satisfying crescendo requires participation from the whole
 
 The player then introduces the next song, and the concert continues with the next player's turn.
 
+## Failure
+
+If a full round passes with no passed performance checks, the band is booed off the stage.
+
 ## Finishing a Concert
 
 Concerts are over when we get bored with them.
