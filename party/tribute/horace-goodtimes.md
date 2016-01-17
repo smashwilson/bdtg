@@ -36,6 +36,10 @@
 
 **Overcharge** Charges: 1, Ranged, Standard, Unchargeable. The target may place two charge counters on any of their abilities that do not have the Unchargeable attribute.
 
+#### Non-combat
+
+Sacrifice a suitably large willing or helpless living creature to fully heal one target. The target suffers a -1 penalty to their highest attribute modifier (and all related skills), target's choice in case of a tie, for the remainder of the day.
+
 ## Backstory
 
  * addicted to "Cocanna Root"
