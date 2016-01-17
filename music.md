@@ -44,4 +44,4 @@ The player then introduces the next song, and the concert continues with the nex
 
 Concerts are over when we get bored with them.
 
-[:point_left: Characters](./characters.md) | [Combat :point_right:](./combat.md)
+[:point_left: Characters](./characters.md) | [Fame :point_right:](./fame.md)

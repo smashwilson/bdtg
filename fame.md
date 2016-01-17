@@ -31,3 +31,5 @@ Fame can be gained through a variety of means, subject to the GM's desires.
 **Bad publicity:** Performing acts in public that are against the band's persona can hurt fame by being perceived as "lame" by the public. In general, bad publicity will not rob a band of more than 20% fame per event, but recurring bad publicity can add up quickly if nothing is done to address it.
 
 **Burning Fame:** The band can burn 10 points of fame in order to add 1d10 to a die roll, even after the roll has been made. The loss is instantaneous. The band burn as much fame as they want in this manner.
+
+[:point_left: Music](music.md) | [Combat :point_right:](combat.md)

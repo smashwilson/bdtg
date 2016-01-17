@@ -14,6 +14,7 @@ I've been toying with the idea of doing this for a while, and there's actually a
 
 ## Index
 
-1. [Characters](./characters.md)
-2. [Music](./music.md)
-3. [Combat](./combat.md)
+1. [Characters](characters.md)
+2. [Music](music.md)
+3. [Fame](fame.md)
+4. [Combat](combat.md)
