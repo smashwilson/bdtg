@@ -1,6 +1,6 @@
 # Music
 
-A *concert* is an event consisting of a series of songs, in which the band attempts to accrue points that represent their growing fame and renown, while not killing *too* many of the audience lest they anger the hosting town, village, or nation-state.
+A *concert* is an event consisting of a series of songs, in which the band attempts to accrue points that effect their growing [Fame](fame.md), while not killing *too* many of the audience lest they anger the hosting town, village, or nation-state.
 
 Concerts proceed with a sequence of turns that players take, going around the table in a simple loop. The band can choose whomever they wish to take the first turn.
 
@@ -39,6 +39,10 @@ At the beginning of any turn, any player may state a desire to **finish** the cu
 Finishing a song in a satisfying crescendo requires participation from the whole band. All players roll 1d20 and sum the results. If the total is greater than 10 times the number of players, the song has been finished and the multiplier carries over to the next. If the total is less than that, the song is still over, but the multiplier is reset to 1.
 
 The player then introduces the next song, and the concert continues with the next player's turn.
+
+## Failure
+
+If a full round passes with no passed performance checks, the band is booed off the stage.
 
 ## Finishing a Concert
 
