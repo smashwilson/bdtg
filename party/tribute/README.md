@@ -7,4 +7,4 @@ This is our party for an as-yet-unnamed Blood Down the Gullet tribute band we're
  * [wrbritt - Father Horace Goodtimes](horace-goodtimes.md)
  * [hdcunni (@Roquaren) - Ohno Itshimagain](ohno-itshimagain.md)
  * [jrhusel (@JimothyWoo) - (unnamed)](jrhusel.md)
- * [@jlitzwilson - (unnamed)](jlitzwilson.md)
+ * [@jlitzwilson - Anna "Slayer" Smith](jlitzwilson.md)

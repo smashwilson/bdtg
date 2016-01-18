@@ -1,8 +1,8 @@
 # [name]
 
  * **Player:** @jrhusel
- * **Race:**
- * **Instrument:**
+ * **Race:** Dragonborn
+ * **Instrument:** Drums
  * **Combat Role:**
 
 ## Backstory
