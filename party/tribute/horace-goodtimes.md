@@ -6,6 +6,40 @@
  * **Combat Role:** Buffs / Healing
  * Healing spells have consequences, like requiring a sacrifice
 
+### Attributes and Skills
+
+ * **Maximum HP:** 60
+ * **STR:** +2
+ * **CON:** +1
+ * **DEX:** -2
+ * **INT:** 0
+ * **WIS:** +5 Construction: +7. Organ Construction: +9. Saying Goodbye: -2.
+ * **CHA:** +3 Storytelling: +5. Making history come alive: +7. Business transactions: -2.
+
+### Defenses
+
+ * **REF:** 10
+ * **FORT:** 12
+ * **WILL:** 16
+
+### Abilities
+
+**Dark Orphan's Blessing** At-will, Ranged, Standard. Grant the target a +1 bonus on any single to-hit roll made before the end of the target's next round.
+
+**Siphon** At-will, Melee, Standard. +2 vs. REF. On hit, deal 1d6 damage and gain that much HP.
+
+**Anything For The Kids** Charges: 3, Melee, Minor. Take 1d6 damage to heal the target 1d10 HP.
+
+**"Holy" Shield** Charges: 2, Melee, Standard. Add +2 to all of the target's defenses until the end of the target's next turn.
+
+**This Will Help, But...** Charges: 1, Melee, Standard. Heal the target 3d10 HP. For the rest of the encounter, the target incurs a -2 penalty on all to-hit rolls.
+
+**Overcharge** Charges: 1, Ranged, Standard, Unchargeable. The target may place two charge counters on any of their abilities that do not have the Unchargeable attribute.
+
+#### Non-combat
+
+Sacrifice a suitably large willing or helpless living creature to fully heal one target. The target suffers a -1 penalty to their highest attribute modifier (and all related skills), target's choice in case of a tie, for the remainder of the day.
+
 ## Backstory
 
  * addicted to "Cocanna Root"
