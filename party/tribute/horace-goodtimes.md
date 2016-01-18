@@ -13,8 +13,8 @@
  * **CON:** +1
  * **DEX:** -2
  * **INT:** 0
- * **WIS:** +5
- * **CHA:** +3
+ * **WIS:** +5 Construction: +7. Organ Construction: +9. Saying Goodbye: -2.
+ * **CHA:** +3 Storytelling: +5. Making history come alive: +7. Business transactions: -2.
 
 ### Defenses
 
