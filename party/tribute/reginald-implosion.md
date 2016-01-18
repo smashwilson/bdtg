@@ -11,7 +11,7 @@ Reginald Marigold Implosion, of the North Hestwich Implosions, was orphaned at a
 
 Reginald patterns himself after BDtG frontman Nathaniel Explosion to the point of star worship and beyond.  He:
 
-  *  Knows the lyrics to every BDtG song, and has developed intricate and long-winded interpretations that nobody esle shares.
+  *  Knows the lyrics to every BDtG song, and has developed intricate and long-winded interpretations that nobody else shares.
   *  Spent years and hired a voice coach to be able to imitate Explosion's voice.  Though he can do this well, he still retains the high-class accent of his normal voice.
   *  Routinely wears corpse paint.  And his regular fancy clothes.
 
