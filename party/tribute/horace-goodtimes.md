@@ -1,6 +1,6 @@
 # Father Horace Goodtimes
 
- * **Player:** @wrbritt
+ * **Player:** @docwbritt
  * **Race:** High Elf (Like, REALLY High)
  * **Instrument:** Church Organ
  * **Combat Role:** Buffs / Healing

@@ -1,6 +1,6 @@
 # Ohno Itshimagain
 
- * **Player:** @fenris
+ * **Player:** @Roquaren
  * **Race:** Half-giant
  * **Instrument:** Bass (Bass guitar is a greataxe)
  * **Combat Role:** Damage + Defense

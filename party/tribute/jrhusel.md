@@ -1,6 +1,6 @@
 # [name]
 
- * **Player:** @jrhusel
+ * **Player:** @JimothyWoo
  * **Race:** Dragonborn
  * **Instrument:** Drums
  * **Combat Role:**

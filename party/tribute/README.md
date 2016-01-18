@@ -2,9 +2,9 @@
 
 This is our party for an as-yet-unnamed Blood Down the Gullet tribute band we're using to playtest the system.
 
- * [@atiaxi - Reginald Implosion](reginald-implosion.md)
- * [fenris (@crudmucosa) - (unnamed)](fenris.md)
- * [wrbritt - Father Horace Goodtimes](horace-goodtimes.md)
- * [hdcunni (@Roquaren) - Ohno Itshimagain](ohno-itshimagain.md)
- * [jrhusel (@JimothyWoo) - (unnamed)](jrhusel.md)
- * [@jlitzwilson - Anna "Slayer" Smith](jlitzwilson.md)
+ * [@atiaxi - Reginald Implosion](reginald-implosion.md): *Vocals. Damage / Control. (unknown)*
+ * [@crudmucosa - (unnamed)](fenris.md) *(unknown). (unknown). (unknown)*
+ * [@docwbritt - Father Horace Goodtimes](horace-goodtimes.md) *Church Organ. Buffs / Healing. High Elf.*
+ * [@Roquaren - Ohno Itshimagain](ohno-itshimagain.md) *Bass. Damage + Defense. Half-giant.*
+ * [jrhusel (@JimothyWoo) - (unnamed)](jrhusel.md) *Drums. (unknown). Dragonborn.*
+ * [@jlitzwilson - Anna "Slayer" Smith](anna-smith.md) *Guitar. Summoning / Healing. Gnome.*
