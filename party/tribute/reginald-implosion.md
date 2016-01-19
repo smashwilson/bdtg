@@ -7,19 +7,19 @@
 
 ### Attributes and Skills
 
- * **Maximum HP:**
- * **STR:**
- * **CON:**
- * **DEX:**
- * **INT:**
- * **WIS:**
- * **CHA:**
+ * **Maximum HP:** 40
+ * **STR:** -2
+ * **CON:** 0
+ * **DEX:** +3
+ * **INT:** +1
+ * **WIS:** +4
+ * **CHA:** +5
 
 ### Defenses
 
- * **REF:**
- * **FORT:**
- * **WILL:**
+ * **REF:** 16
+ * **FORT:** 10
+ * **WILL:** 19
 
 ### Abilities
 
