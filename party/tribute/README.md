@@ -8,4 +8,4 @@ This is our party for an as-yet-unnamed Blood Down the Gullet tribute band we're
  * [@Roquaren - Ohno Itshimagain](ohno-itshimagain.md) *Bass. Damage + Defense. Half-giant.*
  * [@JimothyWoo - (unnamed)](jrhusel.md) *Drums. (unknown). Dragonborn.*
  * [@jlitzwilson - Anna "Slayer" Smith](anna-smith.md) *Guitar. Summoning / Healing. Gnome.*
- * [@roastin41 - (unnamed)](roastin41.md) *(unknown). (unknown). (unknown)*
+ * [@roastin41 - Jarvin "The Bone Whisperer" Wringly](jarvin-wringly.md) *Theramin. Damage (Magic) / Buffs. Gnome.*
