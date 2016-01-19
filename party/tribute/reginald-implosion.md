@@ -5,6 +5,38 @@
  * **Instrument:** Vocals
  * **Combat Role:** Damage / Psychic Control
 
+### Attributes and Skills
+
+ * **Maximum HP:**
+ * **STR:**
+ * **CON:**
+ * **DEX:**
+ * **INT:**
+ * **WIS:**
+ * **CHA:**
+
+### Defenses
+
+ * **REF:**
+ * **FORT:**
+ * **WILL:**
+
+### Abilities
+
+**[name]** At-will.
+
+**[name]** At-will.
+
+**[name]**
+
+**[name]**
+
+**[name]**
+
+**[name]**
+
+#### Non-combat
+
 ## Backstory
 
 Reginald Marigold Implosion, of the North Hestwich Implosions, was orphaned at a young age when his parents attended Blood Down the Gullet's aptly named "Tour of No Return" (said tour also included no return for the concertgoers as well as the band itself).  Years of growing up in the Goodtimes Orphanage hearing tales of the band that emphasized its many exploits and deemphasized the "parent murder" aspects led Reginald toward a career as a bard.  Classically trained at the Bard's College, he's freshly graduated and returned to the orphanage to help Father Goodtimes put together a band to help out the next generation.
