@@ -34,7 +34,7 @@
 
 **This Will Help, But...** Charges: 1, Melee, Standard. Heal the target 3d10 HP. For the rest of the encounter, the target incurs a -2 penalty on all to-hit rolls.
 
-**Overcharge** Charges: 1, Ranged, Standard, Unchargeable. The target may place two charge counters on any of their abilities that do not have the Unchargeable attribute.
+**Overcharge** Charges: 1, Ranged, Standard, Unchargeable. The target may place two charge counters on any of their abilities that do not have the Unchargeable property.
 
 #### Non-combat
 
