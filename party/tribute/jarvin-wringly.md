@@ -6,6 +6,44 @@
  * **Combat Role:** Damage (Magical) / Buffs
  * Necromancy.
 
+### Attributes and Skills
+
+ * **Maximum HP:** 35
+ * **STR:** +1
+ * **CON:** 0
+ * **DEX:** +4 Blending in with Crowds +6. Parkour +8. -2 Nature is Bullshit.
+ * **INT:** +5 Goth Poetry +7. Autopsy +9. -2 Arrogance.
+ * **WIS:** -2
+ * **CHA:** +3
+
+### Defenses
+
+ * **REF:** 14
+ * **FORT:** 8
+ * **WILL:** 19
+
+### Abilities
+
+**Dodge This** At-will, Ranged, Minor. Deal 1d4 damage to target.
+
+**Obscuring Smoke** At-will, Ranged Burst, Standard. Create a smoke screen that occupies one node until the end of your next turn. Allies within that node gain +2 REF and enemies within that node suffer -2 on all to-hit rolls. Any abilities with the Ignite property that successfully target enemies within the smoke screen cause an explosion; roll +5 vs REF and deal 3d8 damage to all hits targets and half damage to missed targets.
+
+**Rise, Rise, Rise** At-will, Melee, Full-Round. Raise a fallen target from the dead to fight as a summoned creature under your control until the end of the encounter. Regardless of their original state, they fight with these stats and abilities:
+
+ * REF: 8, FORT: 15, WILL: 8
+ * *Shambling Lunge* At-will, Melee, Standard. +2 vs REF. On hit, deal 1d8 damage to target and target suffers a -1 penalty on all to-hit rolls until the end of their next turn.
+ * When hit, pay 5 life or expend one charge to keep them animated.
+
+**You Won't Be Needing That Any More** Charges: 2, Melee, Minor, Unchargeable. Destroy target corpse to grant yourself or any ally within sight two charges on any ability that does not contain the Unchargeable property.
+
+**Ignition Spark** Charges: 2, Ranged, Standard, Ignite. +4 vs REF. On hit, deal 2d8 damage to target.
+
+**Gothic Bolt** Charges: 3, Ranged, Standard, Ignite. +2 vs REF. On hit, deal 3d8 damage to target.
+
+#### Non-combat
+
+Once per day, you may ask a single question to any creature killed within the past 24 hours. They are not obligated to cooperate or tell the truth.
+
 ## Backstory
 
 > He's a 4'0" gnome wizard that dabbles in the forbidden arts of Necromancy. Using the bones of the cursed and the dead, he brings the whispers of the deceased to the ears of the "soon to be deceased".
