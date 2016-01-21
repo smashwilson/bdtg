@@ -10,8 +10,8 @@
  * **Maximum HP:** 35
  * **STR:** -2
  * **CON:** 0
- * **DEX:** +5
- * **INT:** +4
+ * **DEX:** +5 Roll +7. Climb +9. Maneuvering guitar while in Bladeling suit -2.
+ * **INT:** +4 Herbology +6. Religious Knowledge +8. Bladeling Culture -2.
  * **WIS:** 0
  * **CHA:** +2
 
