@@ -9,11 +9,11 @@
 
  * **Maximum HP:** 40
  * **STR:** -2
- * **CON:** 0
+ * **CON:** 0. Eat Any Food +2. Poison Resistance +4. Not Throwing Up At The Sight of Blood -2.
  * **DEX:** +3
  * **INT:** +1
  * **WIS:** +4
- * **CHA:** +5
+ * **CHA:** +5. Classical Bard Singing +7. Nathan Explosion Voice +9. Bluff -2.
 
 ### Defenses
 
