@@ -42,5 +42,11 @@ Bash down any door made of anything less durable than metal. It'll be loud and t
 
 ## Backstory
 
- * Doesn't remember what his original name was but every time he would come in to town, that's what people would yell and he has just taken it as his name
- * I'm dumb at `<insertanythingthinky>`
+* Doesn't remember what his original name was but every time he would come in to town, that's what people would yell and he has just taken it as his name
+* I'm dumb at `<insertanythingthinky>`
+* Never knew when my next meal was, so I ate all I could when I could
+* Sometimes I was _really_ hungry, so I had to eat things that would kill normal people. I sometimes still just randomly eat things I find.
+* I cannot handle my alcohol, but I still try. This does not end up well... ever.
+* I've broken a lot of things in my years, from skulls to goblets to water troughs.
+* I like throwing things, I don't have good aim, but it goes far.
+* I have no clue how to control my strength, I cannot do anything that needs precision amounts of pressure or strength.
