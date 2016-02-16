@@ -8,10 +8,10 @@
 ### Attributes and Skills
 
 * **Maximum HP:** 60
-* **STR:** +2
+* **STR:** +3
 * **CON:** +5
-* **DEX:** -2
-* **INT:** +1
+* **DEX:** 0
+* **INT:** +2
 * **WIS:** -1
 * **CHA:** 0
 
