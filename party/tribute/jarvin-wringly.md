@@ -8,7 +8,7 @@
 
 ### Attributes and Skills
 
- * **Maximum HP:** 35
+ * **Maximum HP:** 40
  * **STR:** +1
  * **CON:** 0
  * **DEX:** +4 Blending in with Crowds +6. Parkour +8. -2 Nature is Bullshit.

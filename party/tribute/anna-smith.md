@@ -7,7 +7,7 @@
 
 ### Attributes and Skills
 
- * **Maximum HP:** 35
+ * **Maximum HP:** 40
  * **STR:** -2
  * **CON:** 0
  * **DEX:** +5 Roll +7. Climb +9. Maneuvering guitar while in Bladeling suit -2.
