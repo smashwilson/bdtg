@@ -7,7 +7,7 @@
 
 ### Attributes and Skills
 
- * **Maximum HP:** 40
+ * **Maximum HP:** 50
  * **STR:** -2
  * **CON:** 0. Eat Any Food +2. Poison Resistance +4. Not Throwing Up At The Sight of Blood -2.
  * **DEX:** +3
