@@ -9,8 +9,8 @@
 ### Attributes and Skills
 
  * **Maximum HP:** 65
- * **STR:** +5
- * **CON:** +4
+ * **STR:** +5. Crushing Things +7. Distance Throwing +9. Any Kind of Finesse -2.
+ * **CON:** +4. Eating A Lot +6. Resist Poisons +8. Can't Hold Alcohol -2.
  * **DEX:** +1
  * **INT:** -5
  * **WIS:** -1
