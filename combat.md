@@ -14,7 +14,7 @@ Some abilities may give you the choice of using additional charge tokens to enha
 
 Some abilities may allow you to restore charge tokens to other characters or yourself. The granted tokens can be placed on any ability with a charge number. You *may* add additional tokens above the charge number. They'll persist until you use them, or the next extended rest, whichever comes first.
 
-After a combat encounter, you'll naturally regain five charge tokens in the same manner. After an extended rest, all abilities reset to the number of charge tokens equal to their charge number.
+After a combat encounter, you'll naturally regain two charge tokens in the same manner. After an extended rest, all abilities reset to the number of charge tokens equal to their charge number.
 
 ## Movement
 
