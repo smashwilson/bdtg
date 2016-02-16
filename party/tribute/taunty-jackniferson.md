@@ -8,8 +8,8 @@
 ### Attributes and Skills
 
 * **Maximum HP:** 60
-* **STR:** +3
-* **CON:** +5
+* **STR:** +3. Hitting Things +5. Breaking Restraints +7. Stopping Hitting Things -2.
+* **CON:** +5. Being on Fire +7. Drinking to Excess +9. Being Around Butterflies -2.
 * **DEX:** 0
 * **INT:** +2
 * **WIS:** -1
