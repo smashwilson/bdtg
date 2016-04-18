@@ -26,7 +26,7 @@
 
 **Dodge This** At-will, Ranged, Minor. Deal 1d4 damage to target.
 
-**Obscuring Smoke** At-will, Ranged Burst, Standard. Create a smoke screen that occupies one node until the end of your next turn. Allies within that node gain +2 REF and enemies within that node suffer -2 on all to-hit rolls. Any abilities with the Ignite property that successfully target enemies within the smoke screen cause an explosion; roll +5 vs REF and deal 3d8 damage to all hits targets and half damage to missed targets.
+**Obscuring Smoke** At-will, Ranged Burst, Standard. Create a smoke screen that occupies one node until the end of your next turn. Allies within that node gain +2 REF and enemies within that node suffer -2 on all to-hit rolls. Any abilities with the Ignite property that successfully target enemies within the smoke screen cause an explosion; roll +5 vs REF and deal 3d8 damage to all hit targets and half damage to missed targets.
 
 **Rise, Rise, Rise** At-will, Melee, Full-Round. Raise a fallen target from the dead to fight as a summoned creature under your control until the end of the encounter. Regardless of their original state, they fight with these stats and abilities:
 
@@ -36,9 +36,9 @@
 
 **You Won't Be Needing That Any More** Charges: 2, Melee, Minor, Unchargeable. Destroy target corpse to grant yourself or any ally within sight two charges on any ability that does not contain the Unchargeable property.
 
-**Ignition Spark** Charges: 2, Ranged, Standard, Ignite. +4 vs REF. On hit, deal 2d8 damage to target.
+**Ignition Spark** Charges: 2, Ranged, Standard, Ignite. +4 vs REF. On hit, deal 3d8 damage to target.
 
-**Gothic Bolt** Charges: 3, Ranged, Standard, Ignite. +2 vs REF. On hit, deal 3d8 damage to target.
+**Gothic Bolt** Charges: 3, Ranged, Standard, Ignite. +2 vs REF. On hit, deal 4d8 damage to target.
 
 #### Non-combat
 
