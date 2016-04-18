@@ -16,7 +16,7 @@ A typical turn consists of either one or two actions:
 
 1. The player makes a **performance roll** to determine how competently they're actually, you know, playing their instrument.
 
-   The difficulty of the roll begins at 10 and increases by 1 for each successive turn in the current song.
+   The difficulty of the roll begins at 5 and increases by 2 for each successive turn in the current song.
 
    *On a success:* The band earns a number of points equal to the current multiplier. The band's multiplier is then doubled, to a maximum of 16.
 
