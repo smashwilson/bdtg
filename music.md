@@ -30,7 +30,7 @@ A typical turn consists of either one or two actions:
 
    * If the *performance roll* this turn was a failure, the player may reset the multiplier to its previous value.
 
-   * The player may earn additional points: *Easy* half multiplier; *Medium* multiplier; *Hard* double multiplier.
+   * If the *performance roll* this turn was a success, the player may earn additional points: *Easy* half multiplier; *Medium* multiplier; *Hard* double multiplier.
 
    * The player may grant the next player a bonus on their performance roll: *Easy* +2; *Medium* +3; *Hard* +4.
 
