@@ -30,9 +30,9 @@
 
 **Can't Stop, Won't Stop** Charges: 2, Melee, Standard. +5 vs. REF. On hit, deal 1d12 damage and you *must* repeat this attack on your next turn as a Minor action against a different target if able.
 
-**Aaaaaaaaaaaaaah!** Charges: 2, Melee Burst, Standard. +3 vs. REF. Deal 1d12 damage to each target that is hit. If co-located with an ally, deal an additional 1d6 damage to all hit targets.
+**Aaaaaaaaaaaaaah!** Charges: 2, Melee Burst, Standard. +3 vs. REF. Deal 1d12 damage to each target that is hit. If co-located with an ally, deal an additional 2d10 damage to all hit targets.
 
-**Ohno You Don't** Charges: 3, Melee, Minor. +3 vs. FORT. Prevent the target from using any move actions until the end of their next turn. On hit, also deal 1d6 damage.
+**Ohno You Don't** Charges: 3, Melee, Minor. +3 vs. FORT. Prevent the target from using any move actions until the end of their next turn. On hit, also deal 2d10 damage.
 
 **Hurl** Charges: 2, Ranged, Standard. Must be co-located with an ally. +3 vs. REF. Throw your ally at a non-adjacent enemy target. Your ally is moved to the target's node and suffers 1d6 damage. On hit, the target suffers 2d12 damage.
 
