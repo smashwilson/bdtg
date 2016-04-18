@@ -28,7 +28,7 @@
 
 **Siphon** At-will, Melee, Standard. +2 vs. REF. On hit, deal 1d6 damage and gain that much HP.
 
-**Anything For The Kids** Charges: 3, Ranged, Minor. Take 1d6 damage to heal the target 1d10 HP.
+**Anything For The Kids** Charges: 3, Ranged, Minor, Ignite. Take 1d6 damage to heal the target 1d10 HP.
 
 **"Holy" Shield** Charges: 2, Melee, Standard. Add +2 to all of the target's defenses until the end of the target's next turn.
 
