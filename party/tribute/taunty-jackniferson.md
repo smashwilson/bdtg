@@ -23,7 +23,7 @@
 
 ### Abilities
 
-**Can't Touch This** At-will, Standard. Gain a +1 to all defenses until the beginning of your next round.
+**Can't Touch This** At-will, Standard. Gain a +2 to all defenses until the beginning of your next round.
 
 **Combat Beats** At-will, Melee, Standard. +2 vs REF. On hit, deal 1d8 damage and gain a +2 to REF until the beginning of your next round.
 
