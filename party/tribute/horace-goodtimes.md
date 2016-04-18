@@ -28,13 +28,13 @@
 
 **Siphon** At-will, Melee, Standard. +2 vs. REF. On hit, deal 1d6 damage and gain that much HP.
 
-**Anything For The Kids** Charges: 3, Ranged, Minor, Ignite. Take 1d6 damage to heal the target 1d10 HP.
+**Anything For The Kids** Charges: 3, Ranged, Minor. Take 1d6 damage to heal the target 1d10 HP.
 
 **"Holy" Shield** Charges: 2, Melee, Standard. Add +2 to all of the target's defenses until the end of the target's next turn.
 
 **This Will Help, But...** Charges: 1, Melee, Standard. Heal the target 3d10 HP. For the rest of the encounter, the target incurs a -1 penalty on all to-hit rolls.
 
-**Overcharge** Charges: 1, Ranged, Standard, Unchargeable. The target may place two charge counters on any of their abilities that do not have the Unchargeable property.
+**Overcharge** Charges: 1, Ranged, Standard, Ignite. The target doubles the number of damage dice rolled on their next attack if it's successful.
 
 #### Non-combat
 
