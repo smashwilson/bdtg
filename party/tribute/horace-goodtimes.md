@@ -24,7 +24,7 @@
 
 ### Abilities
 
-**Dark Orphan's Blessing** At-will, Ranged, Standard. Grant the target a +1 bonus on any single to-hit roll made before the end of the target's next round.
+**Dark Orphan's Blessing** At-will, Ranged, Standard. Grant the target a +2 bonus on any single to-hit roll made before the end of the target's next round.
 
 **Siphon** At-will, Melee, Standard. +2 vs. REF. On hit, deal 1d6 damage and gain that much HP.
 
