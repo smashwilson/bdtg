@@ -20,15 +20,21 @@ A typical turn consists of either one or two actions:
 
    *On a success:* The band earns a number of points equal to the current multiplier. The band's multiplier is then doubled, to a maximum of 16.
 
-   *On a failure:* The band earns no points, and the band's multiplier is reduced back to 1 unless the player saves face with a successful stunt.
+   *On a failure:* The band earns no points, and the band's multiplier is reduced back to 1.
 
 2. The player may choose to perform a **stunt**. A stunt can be either a special concert action that's listed on the player's character sheet or whatever crazy, ad-hoc nonsense they want to try to do.
 
    The difficulty of the stunt roll depends on the action that's being attempted. Concert actions describe their difficulty. Ad-hoc stunts have a difficulty determined by the DM and announced before the roll is made: either Easy (5), Medium (10), or Hard (15).
 
-   If the *performance roll* this turn was a failure, but the stunt is a success, the player still earns no points, but the band's multiplier is preserved.
+   If the stunt roll is a success, the player may choose one beneficial effect:
 
-   If the *performance roll* was a success and the player succeeds with a stunt, the band earns more points. Concert actions describe their point rewards, while ad-hoc actions earn points based on their assigned difficulty: Easy (half multiplier), Medium (multiplier), or Hard (double multiplier).
+   * If the *performance roll* this turn was a failure, the player may reset the multiplier to its previous value.
+
+   * The player may earn additional points: *Easy* half multiplier; *Medium* multiplier; *Hard* double multiplier.
+
+   * The player may grant the next player a bonus on their performance roll: *Easy* +2; *Medium* +3; *Hard* +4.
+
+   * The player may grant the band additional die added to the roll to finish the current song (to a maximum of three die). *Easy* 1d8; *Medium* 1d10; *Hard* 1d12.
 
    Knowing the band, stunts are also likely to involve a casualty count. Casualties accumulated during the concert are tallied by the DM.
 
