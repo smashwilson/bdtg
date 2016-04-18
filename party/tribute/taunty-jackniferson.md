@@ -37,6 +37,6 @@
 
 #### Non-combat
 
-Once per concert, if the previous three players have passed their Performance checks, automatically pass your Performance check that round.
+Once per concert, if the previous two players have passed their Performance checks, automatically pass your Performance check that round.
 
 ## Backstory
