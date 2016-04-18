@@ -31,9 +31,9 @@
 
 **Did You Hear What That Guy Said** Charges: 1, Ranged, Standard. +3 vs WILL. On hit, target immediately uses an At-Will attack against a different target of your choosing.
 
-**I Wouldn't Stand There If I Were You** Charges: 2, Ranged Burst, Standard. +4 vs WILL. Each hit target takes 1d8 damage and must immediately move away from their current location.
+**I Wouldn't Stand There If I Were You** Charges: 2, Ranged Burst, Standard. +4 vs WILL. Each hit target takes 3d8 damage and must immediately move away from their current location.
 
-**Mind Crush** Charges: 1, Melee, Standard. +1 vs WILL. On hit, deal 3d8 damage and the target loses their Standard action next turn.
+**Mind Crush** Charges: 1, Melee, Standard. +1 vs WILL. On hit, deal 4d8 damage and the target loses their Standard action next turn.
 
 #### Non-combat
 
