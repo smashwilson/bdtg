@@ -1,6 +1,6 @@
 # Anna "Slayer" Smith
 
- * **Player:** @jlitzwilson
+ * **Player:** @jlitzwilson / @llynmir
  * **Race:** Gnome
  * **Instrument:** Guitar
  * **Combat Role:** Summoner / Healer
@@ -23,22 +23,22 @@
 
 ### Abilities
 
-**Staredown** At-will, Ranged, Standard. +3 vs WILL. On hit, deal 1d8 damage to the target, then grant 1d4 points of healing to an ally within melee range.
+**Staredown** At-will, Ranged, Standard. +3 vs WILL. On hit, deal 2d8 damage to the target, then grant 2d4 points of healing to an ally within melee range.
 
 **From The Brink** At-will, Melee, Full-round. Heal 2d10 damage from target, or 3d10 if target has less than 10 HP.
 
-**"Bladeling" Crowd Surf** Charges: 3, Melee Burst, Standard. +3 vs REF against each enemy in range. Deal 1d6 damage to each target hit.
+**"Bladeling" Crowd Surf** Charges: 3, Melee Burst, Standard. +3 vs REF against each enemy in range. Deal 2d6 damage to each target hit.
 
 **Summon Spectral Wolf** Charges: 1, Ranged, Standard. Summon a Spectral Wolf to fight as your ally.
 
  * REF: 18, FORT: 9, WILL: 15.
- * *Ghostly Jaws* At-will, Melee, Standard. +5 vs REF. On hit, deal 2d8 damage to target OR target may not move until the beginning of your next turn.
+ * *Ghostly Jaws* At-will, Melee, Standard. +5 vs REF. On hit, deal 2d8 damage to target and target may not move until the beginning of your next turn.
  * When hit, pay 5 life or expend one charge to maintain.
 
 **Summon Skeleton** Charges: 2, Ranged, Standard. Summon a Skeleton to fight as your ally.
 
  * REF: 11, FORT: 17, WILL: 7.
- * *Bone Sword* At-will, Melee, Standard. +4 vs REF. On hit, deal 2d6 damage to target.
+ * *Bone Sword* At-will, Melee, Standard. +4 vs REF. On hit, deal 4d6 damage to target.
  * When hit, pay 3 life to maintain.
 
 **Draw Back To The Darkness** Charges: 1, Melee, Full-round. Resurrect one fallen ally with 2d10 HP.
