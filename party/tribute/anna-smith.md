@@ -1,6 +1,6 @@
 # Anna "Slayer" Smith
 
- * **Player:** @jlitzwilson
+ * **Player:** @jlitzwilson / @llynmir
  * **Race:** Gnome
  * **Instrument:** Guitar
  * **Combat Role:** Summoner / Healer
