@@ -23,11 +23,11 @@
 
 ### Abilities
 
-**Can't Touch This** At-will, Standard. Gain a +2 to all defenses until the beginning of your next round.
+**Can't Touch This** At-will, Standard. Gain a +5 to all defenses until the beginning of your next round.
 
-**Combat Beats** At-will, Melee, Standard. +2 vs REF. On hit, deal 1d8 damage and gain a +2 to REF until the beginning of your next round.
+**Combat Beats** At-will, Melee, Standard. +2 vs REF. On hit, deal 2d8 damage and gain a +2 to REF until the beginning of your next round.
 
-**Hey, Look At Me** Charges: 4, Melee Burst, Standard. +3 vs WILL against each enemy in range. On hit, each target takes 1d6 damage and must include you in any attacks made on their next round.
+**Hey, Look At Me** Charges: 4, Melee Burst, Standard. +3 vs WILL against each enemy in range. On hit, each target takes 2d6 damage and must include you in any attacks made on their next round.
 
 **I'd Take A Bullet For You, Man** Charges: 1, Reaction. When a ranged, non-burst attack that does not target you hits a target at the same node, redirect all attack effects to yourself. If inebriated, apply 2 damage resistance to any damage incurred.
 

@@ -24,13 +24,13 @@
 
 ### Abilities
 
-**Dark Orphan's Blessing** At-will, Ranged, Standard. Grant the target a +2 bonus on any single to-hit roll made before the end of the target's next round.
+**Dark Orphan's Blessing** At-will, Ranged, Standard. Grant the target a +5 bonus on any single to-hit roll made before the end of the target's next round.
 
-**Siphon** At-will, Melee, Standard. +2 vs. REF. On hit, deal 1d6 damage and gain that much HP.
+**Siphon** At-will, Melee, Standard. +2 vs. REF. On hit, deal 2d6 damage and gain that much HP.
 
-**Anything For The Kids** Charges: 3, Ranged, Minor. Take 1d6 damage to heal the target 1d10 HP.
+**Anything For The Kids** Charges: 3, Ranged, Minor. Take 2d6 damage to heal the target 1d10 HP.
 
-**"Holy" Shield** Charges: 2, Melee, Standard. Add +2 to all of the target's defenses until the end of the target's next turn.
+**"Holy" Shield** Charges: 2, Melee, Standard. Add +5 to all of the target's defenses until the end of the target's next turn.
 
 **This Will Help, But...** Charges: 1, Melee, Standard. Heal the target 3d10 HP. For the rest of the encounter, the target incurs a -1 penalty on all to-hit rolls.
 

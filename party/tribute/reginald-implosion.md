@@ -23,17 +23,17 @@
 
 ### Abilities
 
-**Brutal Swears** At-will, Ranged, Standard. +4 vs WILL. On hit, deal 1d8 damage.
+**Brutal Swears** At-will, Ranged, Standard. +4 vs WILL. On hit, deal 2d8 damage.
 
-**How Are Those Sounds Even Coming Out Of You** At-will, Melee Burst, Standard. +3 vs WILL against all enemies in burst. Those hit take 1d6 damage and immediately move away from you.
+**How Are Those Sounds Even Coming Out Of You** At-will, Melee Burst, Standard. +3 vs WILL against all enemies in burst. Those hit take 2d6 damage and immediately move away from you.
 
-**Cutting Taunts** Charges: 3, Ranged, Standard. +3 vs WILL. Target must move toward you on their next turn. On hit, also deal 2d8 damage.
+**Cutting Taunts** Charges: 3, Ranged, Standard. +3 vs WILL. Target must move toward you on their next turn. On hit, also deal 3d8 damage.
 
 **Did You Hear What That Guy Said** Charges: 1, Ranged, Standard. +3 vs WILL. On hit, target immediately uses an At-Will attack against a different target of your choosing.
 
-**I Wouldn't Stand There If I Were You** Charges: 2, Ranged Burst, Standard. +4 vs WILL. Each hit target takes 3d8 damage and must immediately move away from their current location.
+**I Wouldn't Stand There If I Were You** Charges: 2, Ranged Burst, Standard. +4 vs WILL. Each hit target takes 4d8 damage and must immediately move away from their current location.
 
-**Mind Crush** Charges: 1, Melee, Standard. +1 vs WILL. On hit, deal 4d8 damage and the target loses their Standard action next turn.
+**Mind Crush** Charges: 1, Melee, Standard. +1 vs WILL. On hit, deal 5d8 damage and the target loses their Standard action next turn.
 
 #### Non-combat
 
