@@ -1,8 +1,8 @@
-PARTY=party/tribute/anna-smith.pdf party/tribute/horace-goodtimes.pdf \
-	party/tribute/jarvin-wringly.pdf party/tribute/ohno-itshimagain.pdf \
-	party/tribute/reginald-implosion.pdf party/tribute/taunty-jackniferson.pdf
+PARTY=party/tribute/anna-smith.html party/tribute/horace-goodtimes.html \
+	party/tribute/jarvin-wringly.html party/tribute/ohno-itshimagain.html \
+	party/tribute/reginald-implosion.html party/tribute/taunty-jackniferson.html
 
-%.pdf: %.md
-	pandoc -f markdown -t latex -s -o $@ $<
+%.html: %.md
+	pandoc -f markdown -t html -s -o $@ $<
 
 all: $(PARTY)
